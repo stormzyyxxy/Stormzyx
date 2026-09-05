@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎯 Tenho **16 anos** e trabalho com **programação e desenvolvimento de projetos**
+- 🎯 Tenho **17 anos** e trabalho com **programação e desenvolvimento de projetos**
 - 🐞 Facilidade em analisar problemas, corrigir bugs e desenvolver funcionalidades à medida de cada projeto
 - 🌐 Conhecimentos em várias linguagens e tecnologias, permitindo-me trabalhar em diferentes tipos de projetos
 
